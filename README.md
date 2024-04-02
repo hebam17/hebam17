@@ -5,4 +5,5 @@ i'm currently work on **mern stack** and want to learn more of the js family lik
 - React Native
 - Next
 - etc
+
 I'm also interested in python and django tryed it before in some simple tutorials and planning to learn more of it
