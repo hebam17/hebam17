@@ -1,9 +1,7 @@
-When i first started to program i fall in love with it, loved to think,to build things, to solve problems,
-success and fail, *love it when solve a bug after a long search*.
+When I first started to program I fell in love with it, loved to think, build things, solve problems,
+success and fail,* I love it when solving a problem or fixing a bug after a long search *.
+So I work with * HTML *, * CSS *, * SASS *, * React *, * Node *, * Mongodb *, ** mern stack ** in general and more
  
-i'm currently work on **mern stack** and want to learn more of the js family like
-- React Native
-- Next
-- etc
+I want to learn more about the JS family like React Native, Next, etc
 
-I'm also interested in python and django tryed it before in some simple tutorials and planning to learn more of it
+I'm also interested in Python and Django I tried them before in some simple tutorials and am planning to learn more about it
