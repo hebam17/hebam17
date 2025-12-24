@@ -4,4 +4,4 @@ So I work with *HTML*, *CSS*, *SASS*, *React*, *Node*, *Mongodb*, **MERN Stack**
  
 I want to learn more about the JS family like React Native, etc 
 
-Currently looking for an opportunity to gain hands-on experience to get even further with my skills
+Currently looking for an opportunity to gain hands-on experience to get even further with my skills.
